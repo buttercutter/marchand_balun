@@ -5,6 +5,23 @@ I am just trying to replicate resistive network Marchand Balun as discussed in [
 
 Note: For ADS user, simply replace your cell with [resistive_network_marchand_balun](./resistive_network_marchand_balun) and its [resistive_network_marchand_balun.dds file](./resistive_network_marchand_balun.dds)
 
+**balun schematics**
+
+![balun_schematics](./balun_schematics.png)
+
+**balun phase**
+
+![balun_phase](./balun_phase.png)
+
+**balun insertion loss**
+
+![balun_insertion_loss](./balun_insertion_loss.png)
+
+**balun return loss**
+
+![balun_return_loss](./balun_return_loss.png)
+
+
 TODO:
 
 - Migrate the design to [openEMS](https://github.com/thliebig/openEMS-Project) so that it could be reused in computer system without ADS software
